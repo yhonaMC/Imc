@@ -1,0 +1,51 @@
+.card-primary {
+  padding: 5%;
+  background: #f4b41a;
+  width: 30% !important;
+  margin-left: 35%;
+}
+p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+label {
+  color: white;
+  font-size: 20px;
+}
+
+.title {
+  background-color: #143d59;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  width: 60%;
+  margin-left: 20%;
+}
+
+form {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  margin-top: 10px;
+  background: #143d59 !important ;
+}
+
+.card-two {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2%;
+}
+
+.resultado {
+  font-size: 30px;
+}
